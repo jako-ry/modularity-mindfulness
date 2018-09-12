@@ -5,3 +5,9 @@ html {
 h1 {
   font-family: "Noto Sans Japanese", sans-serif;
 }
+
+h3 {
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #e2e2e2;
+}
