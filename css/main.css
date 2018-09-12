@@ -11,3 +11,15 @@ h3 {
   border-top-width: 1px;
   border-top-color: #e2e2e2;
 }
+
+section {
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #e2e2e2;
+}
+
+footer {
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #e2e2e2;
+}
