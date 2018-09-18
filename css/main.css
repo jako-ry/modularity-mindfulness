@@ -23,3 +23,30 @@ footer {
   border-top-width: 1px;
   border-top-color: #e2e2e2;
 }
+
+.btn-ghost {
+  border-color: #8bc9d9;
+  border-width: 2px;
+}
+
+.btn {
+  color: #005e76;
+}
+
+.btn:hover {
+  color: #005e76;
+  background-color: #8bc9d9;
+  border-color: #0084a6;
+}
+
+a {
+  color: #0084a6;
+  text-decoration: underline;
+  text-decoration-color: #8bc9d9;
+}
+
+a:hover {
+  color: #005e76;
+  text-decoration: underline;
+  text-decoration-color: #0084a6;
+}
