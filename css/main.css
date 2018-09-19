@@ -6,7 +6,7 @@ h1 {
   font-family: "Noto Sans Japanese", sans-serif;
 }
 
-h3 {
+article {
   border-top-style: solid;
   border-top-width: 1px;
   border-top-color: #e2e2e2;
@@ -40,13 +40,17 @@ footer {
 }
 
 a {
-  color: #0084a6;
-  text-decoration: underline;
-  text-decoration-color: #8bc9d9;
+  color: #005e76;
+  text-decoration: none;
+  border-bottom-style: solid;
+  border-bottom-color: #8bc9d9;
+  border-bottom-width: 2px;
 }
 
 a:hover {
-  color: #005e76;
-  text-decoration: underline;
-  text-decoration-color: #0084a6;
+  color: #000;
+  text-decoration: none;
+  border-bottom-style: solid;
+  border-bottom-color: #0084a6;
+  border-bottom-width: 2px;
 }
